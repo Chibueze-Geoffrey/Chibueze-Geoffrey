@@ -31,7 +31,7 @@ Focus Areas
 
 Highlights
 
-* 4 years of full-stack software engineering (backend, desktop with .NET MAUI/WPF, and web)
+* 4 years of full-stack software engineering (backend, mobile with .NET MAUI/WPF, and web)
 * Architected and delivered a centralized SSO solution powering 140k+ users across 4+ enterprise apps, reducing duplicate identity logic by ~70%
 * Built real-time supervisor-agent tracking and role-based order processing pipelines across multiple internal platforms
 * Delivered a secure direct-funding feature for a digital banking app — external bank transfers with real-time validation, increasing transaction efficiency by 35%

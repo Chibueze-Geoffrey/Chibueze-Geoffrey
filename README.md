@@ -10,7 +10,8 @@ Backend Specialist • Passionate about scalable systems & clean code
 Stack
 
 * Languages: C#, SQL, Python (in progress)
-* Backend: ASP.NET Core, .NET MAUI, Microservices Architecture, REST APIs, FastAPI/Django (learning)
+* Backend: ASP.NET, Microservices Architecture, REST APIs, FastAPI/Django (learning)
+* Frontend: ASP.NET MVC, .NET MAUI, HTML, CSS, Bootstrap, Blazor
 * Databases: PostgreSQL, MSSQL, MySQL, SQLite
 * Architecture: SOLID, DDD, Clean Architecture, CQRS, Unit of Work, EF Core
 * Auth/Security: OAuth2, IdentityServer4, JWT

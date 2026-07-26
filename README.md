@@ -1,8 +1,13 @@
-👋 Hello, I'm Chibueze Geoffrey
-Software Engineer | .NET Microservices | Auth & Payments | Lagos, Nigeria
+# Hello, I'm Chibueze Geoffrey
+---
+
+Software Engineer | .NET Microservices | Auth & Payments
+---
 Backend Specialist • Passionate about scalable systems & clean code
 
-## Stack
+---
+
+Stack
 
 * Languages: C#, SQL, Python (in progress)
 * Backend: ASP.NET Core, .NET MAUI, Microservices Architecture, REST APIs, FastAPI/Django (learning)
@@ -11,7 +16,9 @@ Backend Specialist • Passionate about scalable systems & clean code
 * Auth/Security: OAuth2, IdentityServer4, JWT
 * Tools: Git, Azure DevOps, Docker, Linux, Windows
 
-## Focus Areas
+---
+
+Focus Areas
 
 * FMCG Platform: Backend microservices for a retail/FMCG platform — order, product, notification, settlement services across multiple internal apps (agent, manufacturing, retail, distributor)
 * Fintech Platform: Backend systems for a digital banking platform — account management, transaction processing, direct funding via external bank transfers
@@ -20,7 +27,9 @@ Backend Specialist • Passionate about scalable systems & clean code
 * Data Integrity: Database integrity on high-volume transactional systems (PostgreSQL)
 * Infrastructure: Reverse proxy (IIS/ARR) debugging for payment conversion services
 
-## Highlights
+---
+
+Highlights
 
 * 4+ years of full-stack software engineering (backend, desktop with .NET MAUI/WPF, and web)
 * Architected and delivered a centralized SSO solution powering 140k+ users across 4+ enterprise apps, reducing duplicate identity logic by ~70%
@@ -29,7 +38,9 @@ Backend Specialist • Passionate about scalable systems & clean code
 * Resolved a critical stuck-debit risk in a C# transit sweep service via null downstream identifier handling
 * Built scalable APIs for hotel management and car rental systems with role-based authentication
 
-## Let's Connect
+---
+
+Let's Connect
 
 * 🔗 LinkedIn: [linkedin.com/in/chibuezegeoffrey](https://linkedin.com/in/chibuezegeoffrey)
 * 📧 Email: [chibuezegeoffrey@gmail.com](mailto:chibuezegeoffrey@gmail.com)
